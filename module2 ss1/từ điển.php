@@ -1,3 +1,8 @@
+<html>
+<head>
+</head>
+
+<body>
 <form method="post">
     <h1>TỪ ĐIỂN ANH VIỆT</h1>
 
@@ -7,7 +12,7 @@
 </form>
 
 <?php
-$dictionary = array ("dương"=>"Cá Ngựa", "tâm" =>"Rụng", "buom"=>"LOL", "bird" =>"CC");
+$dictionary = array ("hello"=>"xin chào", "dog" =>"chó", "cat"=>"mèo", "bird" =>"chim");
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $searchword = $_POST["search"];
@@ -31,6 +36,18 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 
 ?>
+
+
+
+</body>
+
+</html>
+
+
+
+
+
+
 
 
 
