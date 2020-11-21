@@ -1,10 +1,16 @@
 <?php
-include ("cLASS.php");
-?>
+class MyClass
+{
+    public $public = 'Public';
+    protected $protected = 'Protected';
+    private $private = 'Private';
 
-<?php
-$nam = new Person("tHÙY","1 tạ");
-$nam->setName("Bò sữa ");
-echo $nam->getName();
-echo $nam->getHeight();
-
+    function printHello()
+    {
+        echo $this->public;
+        echo $this->protected;
+        echo $this->private;
+    }
+}
+$obj = new MyClass();
+echo $obj->protected;

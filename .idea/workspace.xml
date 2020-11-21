@@ -20,20 +20,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fed69d40-207a-4e13-8285-bdea5fb36fb5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/module2 ss5/3d vs 2d/Point2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2 ss5/3d vs 2d/Point3.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2 ss5/3d vs 2d/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2 ss5/Lớp Point và MoveablePoint/MovablePoint.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2 ss5/Lớp Point và MoveablePoint/Point.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2 ss5/Lớp Point và MoveablePoint/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2 ss5/thực hành/Rectangle.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2 ss5/thực hành/Square.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2 ss5/thực hành/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2 ss6/Triển khai interface 'Comparator' để so sánh các lớp hình/Circle.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2 ss6/Triển khai interface 'Comparator' để so sánh các lớp hình/Comparable.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2 ss6/Triển khai interface 'Comparator' để so sánh các lớp hình/ComparableCircle.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2 ss6/Triển khai interface 'Comparator' để so sánh các lớp hình/ComparableCircleMain.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2 ss1/Hiển thị các loại hình.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2 ss10/Dance.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2 ss10/bài2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2 ss10/test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2 ss11/[Bài tập] Game đoán số.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2 ss11/[Bài tập] Đếm số lần xuất hiện của phần tử.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2 ss11/game đoán số review.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2 ss11/số điện thoại.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2 ss11/thực hành max min.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2 ss12/Sắp xếp chèn.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2 ss12/chèn 2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2 ss12/sắp xếp chọn.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2 ss12/sắp xếp nổi bọt.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2 ss2/Trang đăng kí người dùng.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2 ss4/Stop watch/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2 ss6/Resizeable/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2 ss6/thực hành animal vs interface/Animal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2 ss7/10 hàm.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2 ss7/[Thực hành] Triển khai lớp List đơn giản/Arraylist.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2 ss7/test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2 ss8/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2 ss8/test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2 ss9/queue/Node.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2 ss9/queue/queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2 ss9/stack2.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2 ss3/test.php" beforeDir="false" afterPath="$PROJECT_DIR$/module2 ss3/test.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/module2 ss4/Stop watch/Stopwatch.php" beforeDir="false" afterPath="$PROJECT_DIR$/module2 ss4/Stop watch/Stopwatch.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,6 +84,11 @@
     <property name="settings.editor.selected.configurable" value="web.server" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\html\module2 ss9\queue" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -87,7 +105,13 @@
       <workItem from="1604884295427" duration="18327000" />
       <workItem from="1604970525667" duration="8130000" />
       <workItem from="1605233815601" duration="5438000" />
-      <workItem from="1605458612904" duration="2798000" />
+      <workItem from="1605458612904" duration="3109000" />
+      <workItem from="1605490067459" duration="10064000" />
+      <workItem from="1605575419870" duration="10139000" />
+      <workItem from="1605682507978" duration="3246000" />
+      <workItem from="1605748205439" duration="11122000" />
+      <workItem from="1605781235409" duration="244000" />
+      <workItem from="1605837546728" duration="5528000" />
     </task>
     <servers />
   </component>
@@ -107,18 +131,26 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Deployment" timestamp="1605575430193">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Deployment/0.0.1536.824@0.0.1536.824" timestamp="1605575430193" />
     <state x="585" y="135" key="NewPhpClassDialog" timestamp="1604893643122">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="585" y="135" key="NewPhpClassDialog/0.0.1536.824@0.0.1536.824" timestamp="1604893643122" />
-    <state x="604" y="336" key="NewPhpFileDialog" timestamp="1605461415387">
+    <state x="604" y="336" key="NewPhpFileDialog" timestamp="1605923879135">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="604" y="336" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1605461415387" />
+    <state x="604" y="336" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1605923879135" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1604493389864">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1604493389864" />
+    <state x="478" y="11" width="579" height="801" key="find.popup" timestamp="1605495529525">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="478" y="11" width="579" height="801" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1605495529525" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1604905320070">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
